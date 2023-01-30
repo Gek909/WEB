@@ -1,0 +1,44 @@
+html {
+    color:#212121;
+    background-color: #FFECB3;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+header {
+    background-color: #795548;
+    color: white;
+    display: block;
+    height: 90px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 100%;
+}
+footer {
+    background-color: #795548;
+    color: white;
+    display: block;
+    height: 250px;
+    left: 0;
+    position:absolute;
+    width: 100%;
+}
+.bc:hover {
+    color: #FFA000  
+}
+.fig {
+    text-align: center;
+}
+
+figure {
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+}
+
+.logo {
+    margin-left: 500px;
+    width: 240px;
+}
