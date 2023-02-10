@@ -1,0 +1,18 @@
+<? xml version="1.0"?>
+<CATALOG>
+    <BOOK>
+        <TITLE>Как устроена экономика</TITLE>
+        <AUTHOR>Ха Джун Чхан</AUTHOR>
+        <PAGES>320</PAGES>
+        <YEAR>2014</YEAR>
+    <BOOK>
+        <TITLE>Цветы для Элджернона</TITLE>
+        <AUTHOR>Дэниел Киз</AUTHOR>
+        <PAGES>320</PAGES>
+        <YEAR>1959</YEAR>
+    <BOOK>
+        <TITLE>1984</TITLE>
+        <AUTHOR>Джордж Оруэлл</AUTHOR>
+        <PAGES>320</PAGES>
+        <YEAR>1949</YEAR>
+        
